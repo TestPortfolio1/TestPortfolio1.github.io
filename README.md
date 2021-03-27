@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 
-[Web Development with Java Spring Framework](https://coursera.org/share/b5e369c3d4d6e61d35c6642dcd82081c)
+- [Web Development with Java Spring Framework](https://coursera.org/share/b5e369c3d4d6e61d35c6642dcd82081c)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
