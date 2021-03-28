@@ -1,4 +1,4 @@
-## Coursera certificates
+## Below I list a number of certificates earned from Coursera.
 
 
 
